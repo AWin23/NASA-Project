@@ -10,6 +10,15 @@ Full stack NASA space launch application that not only stores historical SpaceX 
 + Takes in real-life NASA data to determine habitable planets 
 
 
+Prerequisite
++ Node v16.16.0
++ NPM 8.11.0
++ Axios 0.27.2
++ Mongoose 6.4.6
+
+
+
+
 
 
 

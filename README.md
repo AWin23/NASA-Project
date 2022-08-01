@@ -1,6 +1,7 @@
 # NASA-Launch-Database
 Full stack NASA space launch application that not only stores historical SpaceX launches but allows user to submit simulated launches using inputed data. 
 
+
 Create README.md
 Setting Up the Application
 
@@ -11,10 +12,14 @@ Setting Up the Application
 5. Type in your terminal: npm install
 
 
+
+
 Running the Project
 
 1. Type in the Terminal: npm run deploy
 2. Go to localhost:8000 on your search engine and schedule a launch
+
+
 
 
 Running the Tests

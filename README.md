@@ -11,6 +11,15 @@ Full stack NASA space launch application that not only stores historical SpaceX 
 
 
 
+Prerequisite
++ Node v16.16.0
++ NPM 8.11.0
++ Axios 0.27.2
++ Mongoose 6.4.6
+
+
+
+
 
 Create README.md
 Setting Up the Application

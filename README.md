@@ -3,13 +3,14 @@
 SUMMARY:
 Full stack NASA space launch application that not only stores historical SpaceX launches but allows user to submit simulated launches using inputed data. 
 
+![](Front-End.png)
+
+
 + Allows user to submit or abort a simulated launch
 + See the date of when an ongoing launch was scheduled
 + View historical SpaceX launches
 + Stores aborted simulated lauches in the History section
 + Takes in real-life NASA data to determine habitable planets 
-
-
 
 Prerequisite
 + Node v16.16.0

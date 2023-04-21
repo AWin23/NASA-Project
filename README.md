@@ -12,7 +12,7 @@ Full stack NASA space launch application that not only stores historical SpaceX 
 + Stores aborted simulated lauches in the History section
 + Takes in real-life NASA data to determine habitable planets 
 
-![](Upcoming-Launches.png)
+![](upcoming-launches.png)
 
 Prerequisite
 + Node v16.16.0
